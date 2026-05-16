@@ -41,6 +41,30 @@ The project also provides a graphical visualization of the maze, explored path, 
 3. The algorithm explores the optimal path with minimum cost.
 
 ---
+## Output
+<img width="1002" height="837" alt="Screenshot 2026-05-16 084202" src="https://github.com/user-attachments/assets/ca1a81ff-951b-439a-8a66-d8a9e1ad4f79" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Heuristic Used
 
